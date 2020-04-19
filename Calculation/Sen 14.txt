@@ -1,0 +1,12 @@
+Open file Output.txt successfully.
+Open file Input.txt successfully.
+
+However, it slows down in the later stages and becomes so called inertia.
+
+
+There are4key words in the article without caring about redundance.
+There are4key words in the article after geting rid of redundance.
+call occurrence: 1
+slow occurrence: 1
+stage occurrence: 1
+inertia occurrence: 1

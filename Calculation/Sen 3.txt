@@ -1,0 +1,16 @@
+Open file Output.txt successfully.
+Open file Input.txt successfully.
+
+TC is the task of automatically sorting a set of documents into categories from a predefined set.
+
+
+There are9key words in the article without caring about redundance.
+There are8key words in the article after geting rid of redundance.
+automat occurrence: 1
+categori occurrence: 1
+document occurrence: 1
+set occurrence: 2
+sort occurrence: 1
+task occurrence: 1
+tc occurrence: 1
+predefin occurrence: 1

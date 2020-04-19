@@ -1,0 +1,25 @@
+Open file Output.txt successfully.
+Open file Input.txt successfully.
+
+Automated TC is attractive because it frees organizations from the need of manually handling document bases, which can be too expensive, or simply not feasible given the time constraints of the application or the number of documents involved.
+
+
+There are18key words in the article without caring about redundance.
+There are17key words in the article after geting rid of redundance.
+applic occurrence: 1
+attract occurrence: 1
+autom occurrence: 1
+base occurrence: 1
+constraintÌÌ occurrence: 1
+document occurrence: 2
+expens occurrence: 1
+feasibl occurrence: 1
+free occurrence: 1
+handl occurrence: 1
+manual occurrence: 1
+number occurrence: 1
+organ occurrence: 1
+simpli occurrence: 1
+tc occurrence: 1
+time occurrence: 1
+involv occurrence: 1

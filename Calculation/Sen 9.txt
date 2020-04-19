@@ -1,0 +1,20 @@
+Open file Output.txt successfully.
+Open file Input.txt successfully.
+
+Artificial neural network is a self-learning model that can implement different algorithms extensively utilized in the field of pattern recognition.
+
+
+There are12key words in the article without caring about redundance.
+There are12key words in the article after geting rid of redundance.
+algorithm occurrence: 1
+artifici occurrence: 1
+extens occurrence: 1
+field occurrence: 1
+implement occurrence: 1
+learn occurrence: 1
+model occurrence: 1
+network occurrence: 1
+neural occurrence: 1
+pattern occurrence: 1
+util occurrence: 1
+recognit occurrence: 1

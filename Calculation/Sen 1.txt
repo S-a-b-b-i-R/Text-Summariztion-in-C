@@ -1,0 +1,16 @@
+Open file Output.txt successfully.
+Open file Input.txt successfully.
+
+Digital text is, at present, a leading non-constructed information resource in web.
+
+
+There are8key words in the article without caring about redundance.
+There are8key words in the article after geting rid of redundance.
+construct occurrence: 1
+digit occurrence: 1
+inform occurrence: 1
+lead occurrence: 1
+present occurrence: 1
+resourc occurrence: 1
+text occurrence: 1
+web occurrence: 1

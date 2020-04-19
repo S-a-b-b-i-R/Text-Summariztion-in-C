@@ -1,0 +1,26 @@
+Open file Output.txt successfully.
+Open file Input.txt successfully.
+
+A variety of machine learning approaches have been applied to text categorization, including support vector machine and, k-nearest neighbor, neural network, Bayes model, decision tree, etc.
+
+
+There are19key words in the article without caring about redundance.
+There are18key words in the article after geting rid of redundance.
+appli occurrence: 1
+approach occurrence: 1
+bay occurrence: 1
+categor occurrence: 1
+decis occurrence: 1
+includ occurrence: 1
+learn occurrence: 1
+machin occurrence: 2
+model occurrence: 1
+nearest occurrence: 1
+neighbor occurrence: 1
+network occurrence: 1
+neural occurrence: 1
+support occurrence: 1
+text occurrence: 1
+varieti occurrence: 1
+vector occurrence: 1
+tree occurrence: 1

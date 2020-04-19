@@ -1,0 +1,20 @@
+Open file Output.txt successfully.
+Open file Input.txt successfully.
+
+More specifically, in the beginning of its training steps, the learning process proceeds very quickly in each epoch and can make rapid progress.
+
+
+There are12key words in the article without caring about redundance.
+There are12key words in the article after geting rid of redundance.
+begin occurrence: 1
+epoch occurrence: 1
+learn occurrence: 1
+make occurrence: 1
+proce occurrence: 1
+process occurrence: 1
+quickli occurrence: 1
+rapid occurrence: 1
+specif occurrence: 1
+step occurrence: 1
+train occurrence: 1
+progress occurrence: 1

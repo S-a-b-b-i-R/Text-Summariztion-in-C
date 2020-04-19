@@ -1,0 +1,24 @@
+Open file Output.txt successfully.
+Open file Input.txt successfully.
+
+BPNN has the problems of slow training speed and the likelihood of becoming trapped in a local minimum, which makes it difficult to use in practical applications, especially when the scale of the network is large.
+
+
+There are16key words in the article without caring about redundance.
+There are16key words in the article after geting rid of redundance.
+applic occurrence: 1
+bpnn occurrence: 1
+difficult occurrence: 1
+likelihoodÌÌ occurrence: 1
+local occurrence: 1
+make occurrence: 1
+minimum occurrence: 1
+network occurrence: 1
+practic occurrence: 1
+problem occurrence: 1
+scale occurrence: 1
+slow occurrence: 1
+speed occurrence: 1
+train occurrence: 1
+trap occurrence: 1
+larg occurrence: 1

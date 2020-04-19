@@ -1,0 +1,22 @@
+Open file Output.txt successfully.
+Open file Input.txt successfully.
+
+Text classification (TC) is a crucial and well-proven instrument for organizing these large volumes of digital text information which are widespread and increasing continuously.
+
+
+There are15key words in the article without caring about redundance.
+There are14key words in the article after geting rid of redundance.
+classif occurrence: 1
+crucial occurrence: 1
+digit occurrence: 1
+increas occurrence: 1
+inform occurrence: 1
+instrumentÌÌ occurrence: 1
+larg occurrence: 1
+organ occurrence: 1
+proven occurrence: 1
+tc occurrence: 1
+text occurrence: 2
+volum occurrence: 1
+widespreadÌÌ occurrence: 1
+continu occurrence: 1

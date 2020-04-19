@@ -1,0 +1,18 @@
+Open file Output.txt successfully.
+Open file Input.txt successfully.
+
+Although such methods have been extensively researched, yet the present automated text classifiers are still with fault and the effectiveness needs improvement.
+
+
+There are10key words in the article without caring about redundance.
+There are10key words in the article after geting rid of redundance.
+autom occurrence: 1
+classifi occurrence: 1
+effect occurrence: 1
+extens occurrence: 1
+fault occurrence: 1
+method occurrence: 1
+present occurrence: 1
+research occurrence: 1
+text occurrence: 1
+improv occurrence: 1

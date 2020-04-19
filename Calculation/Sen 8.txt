@@ -1,0 +1,13 @@
+Open file Output.txt successfully.
+Open file Input.txt successfully.
+
+Thus, text categorization is still a major research field.
+
+
+There are5key words in the article without caring about redundance.
+There are5key words in the article after geting rid of redundance.
+categor occurrence: 1
+major occurrence: 1
+research occurrence: 1
+text occurrence: 1
+field occurrence: 1

@@ -1,0 +1,29 @@
+Open file Output.txt successfully.
+Open file Input.txt successfully.
+
+So far automated TC has become a research hot spot and put forward a series of related applications, e.g. web classification, personalized news, query recommendation, genre identification, spam filtering, and topic spotting etc.
+
+
+There are22key words in the article without caring about redundance.
+There are21key words in the article after geting rid of redundance.
+applic occurrence: 1
+autom occurrence: 1
+classif occurrence: 1
+filter occurrence: 1
+forward occurrence: 1
+genr occurrence: 1
+hot occurrence: 1
+identif occurrence: 1
+new occurrence: 1
+person occurrence: 1
+put occurrence: 1
+queri occurrence: 1
+recommend occurrence: 1
+relat occurrence: 1
+research occurrence: 1
+seri occurrence: 1
+spam occurrence: 1
+spot occurrence: 2
+tc occurrence: 1
+web occurrence: 1
+topic occurrence: 1

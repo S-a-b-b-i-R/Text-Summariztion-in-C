@@ -1,0 +1,12 @@
+Open file Output.txt successfully.
+Open file Input.txt successfully.
+
+Meanwhile, it is easy to enter local minima.
+
+
+There are4key words in the article without caring about redundance.
+There are4key words in the article after geting rid of redundance.
+easi occurrence: 1
+enter occurrence: 1
+local occurrence: 1
+minima occurrence: 1

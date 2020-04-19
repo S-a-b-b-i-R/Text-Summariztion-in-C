@@ -1,0 +1,11 @@
+Open file Output.txt successfully.
+Open file Input.txt successfully.
+
+Classifiers is not without fault and still needs improvement.
+
+
+There are3key words in the article without caring about redundance.
+There are3key words in the article after geting rid of redundance.
+classifi occurrence: 1
+fault occurrence: 1
+improv occurrence: 1

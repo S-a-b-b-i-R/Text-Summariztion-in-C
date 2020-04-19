@@ -1,0 +1,16 @@
+Open file Output.txt successfully.
+Open file Input.txt successfully.
+
+The back propagation neural network (BPNN) is a kind of basic supervised network.
+
+
+There are9key words in the article without caring about redundance.
+There are8key words in the article after geting rid of redundance.
+back occurrence: 1
+basic occurrence: 1
+bpnn occurrence: 1
+kind occurrence: 1
+network occurrence: 2
+neural occurrence: 1
+propag occurrence: 1
+supervis occurrence: 1
