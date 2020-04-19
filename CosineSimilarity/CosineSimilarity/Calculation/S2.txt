@@ -1,0 +1,1 @@
+Text classification (TC) is a crucial and well-proven instrument for organizing these large volumes of digital text information which are widespread and increasing continuously.

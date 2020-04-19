@@ -1,0 +1,1 @@
+The back propagation neural network (BPNN) is a kind of basic supervised network.

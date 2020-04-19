@@ -1,0 +1,7 @@
+D:\projects\TFS\CosineSimilarity\CosineSimilarity\bin\Debug\CosineSimilarity.exe.config
+D:\projects\TFS\CosineSimilarity\CosineSimilarity\bin\Debug\CosineSimilarity.exe
+D:\projects\TFS\CosineSimilarity\CosineSimilarity\bin\Debug\CosineSimilarity.pdb
+D:\projects\TFS\CosineSimilarity\CosineSimilarity\obj\Debug\CosineSimilarity.csprojResolveAssemblyReference.cache
+D:\projects\TFS\CosineSimilarity\CosineSimilarity\obj\Debug\CosineSimilarity.csproj.CoreCompileInputs.cache
+D:\projects\TFS\CosineSimilarity\CosineSimilarity\obj\Debug\CosineSimilarity.exe
+D:\projects\TFS\CosineSimilarity\CosineSimilarity\obj\Debug\CosineSimilarity.pdb

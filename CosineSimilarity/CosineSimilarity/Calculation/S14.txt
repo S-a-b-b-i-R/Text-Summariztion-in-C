@@ -1,0 +1,1 @@
+However, it slows down in the later stages and becomes so called inertia.

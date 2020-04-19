@@ -1,0 +1,1 @@
+So far automated TC has become a research hot spot and put forward a series of related applications, e.g. web classification, personalized news, query recommendation, genre identification, spam filtering, and topic spotting etc.

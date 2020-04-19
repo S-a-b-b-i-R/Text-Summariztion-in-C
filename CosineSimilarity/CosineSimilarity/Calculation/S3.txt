@@ -1,0 +1,1 @@
+TC is the task of automatically sorting a set of documents into categories from a predefined set.
